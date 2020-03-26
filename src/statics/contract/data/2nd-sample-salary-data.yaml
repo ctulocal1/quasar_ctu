@@ -1,0 +1,1311 @@
+- option: 
+  choose: Pay Type
+  choices:
+  - option: Salary
+    choose: Educator Category
+    choices:
+    - option: 208-Day Teacher
+      choose: Lane
+      choices: 
+      - option: 1
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 101008
+            step: 10108
+          - option: 2
+            base: 102008
+            step: 10208
+          - option: 3
+            base: 103008
+            step: 10308
+          - option: 4
+            base: 104008
+            step: 10408
+          - option: 5
+            base: 105008
+            step: 10508
+          - option: 6
+            base: 106008
+            step: 10608
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 111008
+            step: 11108
+          - option: 2
+            base: 112008
+            step: 11208
+          - option: 3
+            base: 113008
+            step: 11308
+          - option: 4
+            base: 114008
+            step: 11408
+          - option: 5
+            base: 115008
+            step: 11508
+          - option: 6
+            base: 116008
+            step: 11608
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 121008
+            step: 12108
+          - option: 2
+            base: 122008
+            step: 12208
+          - option: 3
+            base: 123008
+            step: 12308
+          - option: 4
+            base: 124008
+            step: 12408
+          - option: 5
+            base: 125008
+            step: 12508
+          - option: 6
+            base: 126008
+            step: 12608
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 131008
+            step: 13108
+          - option: 2
+            base: 132008
+            step: 13208
+          - option: 3
+            base: 133008
+            step: 13308
+          - option: 4
+            base: 134008
+            step: 13408
+          - option: 5
+            base: 135008
+            step: 13508
+          - option: 6
+            base: 136008
+            step: 13608
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 141008
+            step: 14108
+          - option: 2
+            base: 142008
+            step: 14208
+          - option: 3
+            base: 143008
+            step: 14308
+          - option: 4
+            base: 144008
+            step: 14408
+          - option: 5
+            base: 145008
+            step: 14508
+          - option: 6
+            base: 146008
+            step: 14608
+      - option: 2
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 201008
+            step: 20108
+          - option: 2
+            base: 202008
+            step: 20208
+          - option: 3
+            base: 203008
+            step: 20308
+          - option: 4
+            base: 204008
+            step: 20408
+          - option: 5
+            base: 205008
+            step: 20508
+          - option: 6
+            base: 206008
+            step: 20608
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 211008
+            step: 21108
+          - option: 2
+            base: 212008
+            step: 21208
+          - option: 3
+            base: 213008
+            step: 21308
+          - option: 4
+            base: 214008
+            step: 21408
+          - option: 5
+            base: 215008
+            step: 21508
+          - option: 6
+            base: 216008
+            step: 21608
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 221008
+            step: 22108
+          - option: 2
+            base: 222008
+            step: 22208
+          - option: 3
+            base: 223008
+            step: 22308
+          - option: 4
+            base: 224008
+            step: 22408
+          - option: 5
+            base: 225008
+            step: 22508
+          - option: 6
+            base: 226008
+            step: 22608
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 231008
+            step: 23108
+          - option: 2
+            base: 232008
+            step: 23208
+          - option: 3
+            base: 233008
+            step: 23308
+          - option: 4
+            base: 234008
+            step: 23408
+          - option: 5
+            base: 235008
+            step: 23508
+          - option: 6
+            base: 236008
+            step: 23608
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 241008
+            step: 24108
+          - option: 2
+            base: 242008
+            step: 24208
+          - option: 3
+            base: 243008
+            step: 24308
+          - option: 4
+            base: 244008
+            step: 24408
+          - option: 5
+            base: 245008
+            step: 24508
+          - option: 6
+            base: 246008
+            step: 24608
+      - option: 3
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 201008
+            step: 30108
+          - option: 2
+            base: 302008
+            step: 30208
+          - option: 3
+            base: 303008
+            step: 30308
+          - option: 4
+            base: 304008
+            step: 30408
+          - option: 5
+            base: 305008
+            step: 30508
+          - option: 6
+            base: 306008
+            step: 30608
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 311008
+            step: 31108
+          - option: 2
+            base: 312008
+            step: 31208
+          - option: 3
+            base: 313008
+            step: 31308
+          - option: 4
+            base: 314008
+            step: 31408
+          - option: 5
+            base: 315008
+            step: 31508
+          - option: 6
+            base: 316008
+            step: 31608
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 321008
+            step: 32108
+          - option: 2
+            base: 322008
+            step: 32208
+          - option: 3
+            base: 323008
+            step: 32308
+          - option: 4
+            base: 324008
+            step: 32408
+          - option: 5
+            base: 325008
+            step: 32508
+          - option: 6
+            base: 326008
+            step: 32608
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 331008
+            step: 33108
+          - option: 2
+            base: 332008
+            step: 33208
+          - option: 3
+            base: 333008
+            step: 33308
+          - option: 4
+            base: 334008
+            step: 33408
+          - option: 5
+            base: 335008
+            step: 33508
+          - option: 6
+            base: 336008
+            step: 33608
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 341008
+            step: 34108
+          - option: 2
+            base: 342008
+            step: 34208
+          - option: 3
+            base: 343008
+            step: 34308
+          - option: 4
+            base: 344008
+            step: 34408
+          - option: 5
+            base: 345008
+            step: 34508
+          - option: 6
+            base: 346008
+            step: 34608
+      - option: 4
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 401008
+            step: 40108
+          - option: 2
+            base: 402008
+            step: 40208
+          - option: 3
+            base: 403008
+            step: 40308
+          - option: 4
+            base: 404008
+            step: 40408
+          - option: 5
+            base: 405008
+            step: 40508
+          - option: 6
+            base: 406008
+            step: 40608
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 411008
+            step: 41108
+          - option: 2
+            base: 412008
+            step: 41208
+          - option: 3
+            base: 413008
+            step: 41308
+          - option: 4
+            base: 414008
+            step: 41408
+          - option: 5
+            base: 415008
+            step: 41508
+          - option: 6
+            base: 416008
+            step: 41608
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 421008
+            step: 42108
+          - option: 2
+            base: 422008
+            step: 42208
+          - option: 3
+            base: 423008
+            step: 42308
+          - option: 4
+            base: 424008
+            step: 42408
+          - option: 5
+            base: 425008
+            step: 42508
+          - option: 6
+            base: 426008
+            step: 42608
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 431008
+            step: 43108
+          - option: 2
+            base: 432008
+            step: 43208
+          - option: 3
+            base: 433008
+            step: 43308
+          - option: 4
+            base: 434008
+            step: 43408
+          - option: 5
+            base: 435008
+            step: 43508
+          - option: 6
+            base: 436008
+            step: 43608
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 441008
+            step: 44108
+          - option: 2
+            base: 442008
+            step: 44208
+          - option: 3
+            base: 443008
+            step: 44308
+          - option: 4
+            base: 444008
+            step: 44408
+          - option: 5
+            base: 445008
+            step: 44508
+          - option: 6
+            base: 446008
+            step: 44608
+      - option: 5
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 501008
+            step: 50108
+          - option: 2
+            base: 502008
+            step: 50208
+          - option: 3
+            base: 503008
+            step: 50308
+          - option: 4
+            base: 504008
+            step: 50408
+          - option: 5
+            base: 505008
+            step: 50508
+          - option: 6
+            base: 506008
+            step: 50608
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 511008
+            step: 51108
+          - option: 2
+            base: 512008
+            step: 51208
+          - option: 3
+            base: 513008
+            step: 51308
+          - option: 4
+            base: 514008
+            step: 51408
+          - option: 5
+            base: 515008
+            step: 51508
+          - option: 6
+            base: 516008
+            step: 51608
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 521008
+            step: 52108
+          - option: 2
+            base: 522008
+            step: 52208
+          - option: 3
+            base: 523008
+            step: 52308
+          - option: 4
+            base: 524008
+            step: 52408
+          - option: 5
+            base: 525008
+            step: 52508
+          - option: 6
+            base: 526008
+            step: 52608
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 531008
+            step: 53108
+          - option: 2
+            base: 532008
+            step: 53208
+          - option: 3
+            base: 533008
+            step: 53308
+          - option: 4
+            base: 534008
+            step: 53408
+          - option: 5
+            base: 535008
+            step: 53508
+          - option: 6
+            base: 536008
+            step: 53608
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 541008
+            step: 54108
+          - option: 2
+            base: 542008
+            step: 54208
+          - option: 3
+            base: 543008
+            step: 54308
+          - option: 4
+            base: 544008
+            step: 54408
+          - option: 5
+            base: 545008
+            step: 54508
+          - option: 6
+            base: 546008
+            step: 54608
+      - option: 6
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 611008
+            step: 61108
+          - option: 2
+            base: 612008
+            step: 61208
+          - option: 3
+            base: 613008
+            step: 61308
+          - option: 4
+            base: 614008
+            step: 61408
+          - option: 5
+            base: 615008
+            step: 61508
+          - option: 6
+            base: 616008
+            step: 61608
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 621008
+            step: 62108
+          - option: 2
+            base: 622008
+            step: 62208
+          - option: 3
+            base: 623008
+            step: 62308
+          - option: 4
+            base: 624008
+            step: 62408
+          - option: 5
+            base: 625008
+            step: 62508
+          - option: 6
+            base: 626008
+            step: 62608
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 621008
+            step: 62108
+          - option: 2
+            base: 622008
+            step: 62208
+          - option: 3
+            base: 623008
+            step: 62308
+          - option: 4
+            base: 624008
+            step: 62408
+          - option: 5
+            base: 625008
+            step: 62508
+          - option: 6
+            base: 626008
+            step: 62608
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 631008
+            step: 63108
+          - option: 2
+            base: 632008
+            step: 63208
+          - option: 3
+            base: 633008
+            step: 63308
+          - option: 4
+            base: 634008
+            step: 63408
+          - option: 5
+            base: 635008
+            step: 63508
+          - option: 6
+            base: 636008
+            step: 63608
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 641008
+            step: 64108
+          - option: 2
+            base: 642008
+            step: 64208
+          - option: 3
+            base: 643008
+            step: 64308
+          - option: 4
+            base: 644008
+            step: 64408
+          - option: 5
+            base: 645008
+            step: 64508
+          - option: 6
+            base: 646008
+            step: 64608
+    - option: 227-Day Teacher
+      choose: Lane
+      choices: 
+      - option: 1
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 101027
+            step: 10127
+          - option: 2
+            base: 102027
+            step: 10227
+          - option: 3
+            base: 103027
+            step: 10327
+          - option: 4
+            base: 104027
+            step: 10427
+          - option: 5
+            base: 105027
+            step: 10527
+          - option: 6
+            base: 106027
+            step: 10627
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 111027
+            step: 11127
+          - option: 2
+            base: 112027
+            step: 11227
+          - option: 3
+            base: 113027
+            step: 11327
+          - option: 4
+            base: 114027
+            step: 11427
+          - option: 5
+            base: 115027
+            step: 11527
+          - option: 6
+            base: 116027
+            step: 11627
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 121027
+            step: 12127
+          - option: 2
+            base: 122027
+            step: 12227
+          - option: 3
+            base: 123027
+            step: 12327
+          - option: 4
+            base: 124027
+            step: 12427
+          - option: 5
+            base: 125027
+            step: 12527
+          - option: 6
+            base: 126027
+            step: 12627
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 131027
+            step: 13127
+          - option: 2
+            base: 132027
+            step: 13227
+          - option: 3
+            base: 133027
+            step: 13327
+          - option: 4
+            base: 134027
+            step: 13427
+          - option: 5
+            base: 135027
+            step: 13527
+          - option: 6
+            base: 136027
+            step: 13627
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 141027
+            step: 14127
+          - option: 2
+            base: 142027
+            step: 14227
+          - option: 3
+            base: 143027
+            step: 14327
+          - option: 4
+            base: 144027
+            step: 14427
+          - option: 5
+            base: 145027
+            step: 14527
+          - option: 6
+            base: 146027
+            step: 14627
+      - option: 2
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 201027
+            step: 20127
+          - option: 2
+            base: 202027
+            step: 20227
+          - option: 3
+            base: 203027
+            step: 20327
+          - option: 4
+            base: 204027
+            step: 20427
+          - option: 5
+            base: 205027
+            step: 20527
+          - option: 6
+            base: 206027
+            step: 20627
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 211027
+            step: 21127
+          - option: 2
+            base: 212027
+            step: 21227
+          - option: 3
+            base: 213027
+            step: 21327
+          - option: 4
+            base: 214027
+            step: 21427
+          - option: 5
+            base: 215027
+            step: 21527
+          - option: 6
+            base: 216027
+            step: 21627
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 221027
+            step: 22127
+          - option: 2
+            base: 222027
+            step: 22227
+          - option: 3
+            base: 223027
+            step: 22327
+          - option: 4
+            base: 224027
+            step: 22427
+          - option: 5
+            base: 225027
+            step: 22527
+          - option: 6
+            base: 226027
+            step: 22627
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 231027
+            step: 23127
+          - option: 2
+            base: 232027
+            step: 23227
+          - option: 3
+            base: 233027
+            step: 23327
+          - option: 4
+            base: 234027
+            step: 23427
+          - option: 5
+            base: 235027
+            step: 23527
+          - option: 6
+            base: 236027
+            step: 23627
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 241027
+            step: 24127
+          - option: 2
+            base: 242027
+            step: 24227
+          - option: 3
+            base: 243027
+            step: 24327
+          - option: 4
+            base: 244027
+            step: 24427
+          - option: 5
+            base: 245027
+            step: 24527
+          - option: 6
+            base: 246027
+            step: 24627
+      - option: 3
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 201027
+            step: 30127
+          - option: 2
+            base: 302027
+            step: 30227
+          - option: 3
+            base: 303027
+            step: 30327
+          - option: 4
+            base: 304027
+            step: 30427
+          - option: 5
+            base: 305027
+            step: 30527
+          - option: 6
+            base: 306027
+            step: 30627
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 311027
+            step: 31127
+          - option: 2
+            base: 312027
+            step: 31227
+          - option: 3
+            base: 313027
+            step: 31327
+          - option: 4
+            base: 314027
+            step: 31427
+          - option: 5
+            base: 315027
+            step: 31527
+          - option: 6
+            base: 316027
+            step: 31627
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 321027
+            step: 32127
+          - option: 2
+            base: 322027
+            step: 32227
+          - option: 3
+            base: 323027
+            step: 32327
+          - option: 4
+            base: 324027
+            step: 32427
+          - option: 5
+            base: 325027
+            step: 32527
+          - option: 6
+            base: 326027
+            step: 32627
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 331027
+            step: 33127
+          - option: 2
+            base: 332027
+            step: 33227
+          - option: 3
+            base: 333027
+            step: 33327
+          - option: 4
+            base: 334027
+            step: 33427
+          - option: 5
+            base: 335027
+            step: 33527
+          - option: 6
+            base: 336027
+            step: 33627
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 341027
+            step: 34127
+          - option: 2
+            base: 342027
+            step: 34227
+          - option: 3
+            base: 343027
+            step: 34327
+          - option: 4
+            base: 344027
+            step: 34427
+          - option: 5
+            base: 345027
+            step: 34527
+          - option: 6
+            base: 346027
+            step: 34627
+      - option: 4
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 401027
+            step: 40127
+          - option: 2
+            base: 402027
+            step: 40227
+          - option: 3
+            base: 403027
+            step: 40327
+          - option: 4
+            base: 404027
+            step: 40427
+          - option: 5
+            base: 405027
+            step: 40527
+          - option: 6
+            base: 406027
+            step: 40627
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 411027
+            step: 41127
+          - option: 2
+            base: 412027
+            step: 41227
+          - option: 3
+            base: 413027
+            step: 41327
+          - option: 4
+            base: 414027
+            step: 41427
+          - option: 5
+            base: 415027
+            step: 41527
+          - option: 6
+            base: 416027
+            step: 41627
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 421027
+            step: 42127
+          - option: 2
+            base: 422027
+            step: 42227
+          - option: 3
+            base: 423027
+            step: 42327
+          - option: 4
+            base: 424027
+            step: 42427
+          - option: 5
+            base: 425027
+            step: 42527
+          - option: 6
+            base: 426027
+            step: 42627
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 431027
+            step: 43127
+          - option: 2
+            base: 432027
+            step: 43227
+          - option: 3
+            base: 433027
+            step: 43327
+          - option: 4
+            base: 434027
+            step: 43427
+          - option: 5
+            base: 435027
+            step: 43527
+          - option: 6
+            base: 436027
+            step: 43627
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 441027
+            step: 44127
+          - option: 2
+            base: 442027
+            step: 44227
+          - option: 3
+            base: 443027
+            step: 44327
+          - option: 4
+            base: 444027
+            step: 44427
+          - option: 5
+            base: 445027
+            step: 44527
+          - option: 6
+            base: 446027
+            step: 44627
+      - option: 5
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 501027
+            step: 50127
+          - option: 2
+            base: 502027
+            step: 50227
+          - option: 3
+            base: 503027
+            step: 50327
+          - option: 4
+            base: 504027
+            step: 50427
+          - option: 5
+            base: 505027
+            step: 50527
+          - option: 6
+            base: 506027
+            step: 50627
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 511027
+            step: 51127
+          - option: 2
+            base: 512027
+            step: 51227
+          - option: 3
+            base: 513027
+            step: 51327
+          - option: 4
+            base: 514027
+            step: 51427
+          - option: 5
+            base: 515027
+            step: 51527
+          - option: 6
+            base: 516027
+            step: 51627
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 521027
+            step: 52127
+          - option: 2
+            base: 522027
+            step: 52227
+          - option: 3
+            base: 523027
+            step: 52327
+          - option: 4
+            base: 524027
+            step: 52427
+          - option: 5
+            base: 525027
+            step: 52527
+          - option: 6
+            base: 526027
+            step: 52627
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 531027
+            step: 53127
+          - option: 2
+            base: 532027
+            step: 53227
+          - option: 3
+            base: 533027
+            step: 53327
+          - option: 4
+            base: 534027
+            step: 53427
+          - option: 5
+            base: 535027
+            step: 53527
+          - option: 6
+            base: 536027
+            step: 53627
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 541027
+            step: 54127
+          - option: 2
+            base: 542027
+            step: 54227
+          - option: 3
+            base: 543027
+            step: 54327
+          - option: 4
+            base: 544027
+            step: 54427
+          - option: 5
+            base: 545027
+            step: 54527
+          - option: 6
+            base: 546027
+            step: 54627
+      - option: 6
+        choose: Year
+        choices:
+        - option: 2019-20
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 611027
+            step: 61127
+          - option: 2
+            base: 612027
+            step: 61227
+          - option: 3
+            base: 613027
+            step: 61327
+          - option: 4
+            base: 614027
+            step: 61427
+          - option: 5
+            base: 615027
+            step: 61527
+          - option: 6
+            base: 616027
+            step: 61627
+        - option: 2020-21
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 621027
+            step: 62127
+          - option: 2
+            base: 622027
+            step: 62227
+          - option: 3
+            base: 623027
+            step: 62327
+          - option: 4
+            base: 624027
+            step: 62427
+          - option: 5
+            base: 625027
+            step: 62527
+          - option: 6
+            base: 626027
+            step: 62627
+        - option: 2021-22
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 621027
+            step: 62127
+          - option: 2
+            base: 622027
+            step: 62227
+          - option: 3
+            base: 623027
+            step: 62327
+          - option: 4
+            base: 624027
+            step: 62427
+          - option: 5
+            base: 625027
+            step: 62527
+          - option: 6
+            base: 626027
+            step: 62627
+        - option: 2022-23
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 631027
+            step: 63127
+          - option: 2
+            base: 632027
+            step: 63227
+          - option: 3
+            base: 633027
+            step: 63327
+          - option: 4
+            base: 634027
+            step: 63427
+          - option: 5
+            base: 635027
+            step: 63527
+          - option: 6
+            base: 636027
+            step: 63627
+        - option: 2023-24
+          choose: Years of Service (Step)
+          choices:
+          - option: 1
+            base: 641027
+            step: 64127
+          - option: 2
+            base: 642027
+            step: 64227
+          - option: 3
+            base: 643027
+            step: 64327
+          - option: 4
+            base: 644027
+            step: 64427
+          - option: 5
+            base: 645027
+            step: 64527
+          - option: 6
+            base: 646027
+            step: 64627
+  - option: Increment or Stipend
+  - option: Other Rate of Pay
+  - option: Reimbursement

@@ -1,0 +1,1008 @@
+childTitle: Employee Category
+children:
+  - choice: 208-Day Employees
+    childTitle: Lane
+    children:
+      - choice: 1
+        childTitle: Year
+        children:
+          - choice: 2012-13
+            childTitle: Step
+            children:
+               - choice: 1
+                 amount: 48686 
+               - choice: 2
+                 amount: 49621 
+               - choice: 3
+                 amount: 52337 
+               - choice: 4
+                 amount: 55171 
+               - choice: 5
+                 amount: 58447 
+               - choice: 6
+                 amount: 61443 
+               - choice: 7
+                 amount: 64114 
+               - choice: 8
+                 amount: 66220 
+               - choice: 9
+                 amount: 68750 
+               - choice: 10
+                 amount: 71138 
+               - choice: 11
+                 amount: 73481 
+               - choice: 12
+                 amount: 75847 
+               - choice: 13
+                 amount: 78095 
+               - choice: 14
+                 amount: 80134 
+               - choice: 15
+                 amount: 81155 
+               - choice: 16
+                 amount: 82185 
+          - choice: 2013-14
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 49660 
+              - choice: 2
+                amount: 50595 
+              - choice: 3
+                amount: 51734 
+              - choice: 4
+                amount: 54599 
+              - choice: 5
+                amount: 58237 
+              - choice: 6
+                amount: 62046 
+              - choice: 7
+                amount: 65242 
+              - choice: 8
+                amount: 67966 
+              - choice: 9
+                amount: 70114 
+              - choice: 10
+                amount: 72555 
+              - choice: 11
+                amount: 74804 
+              - choice: 12
+                amount: 76820 
+              - choice: 13
+                amount: 78953 
+              - choice: 14a
+                amount: 81012 
+              - choice: 14b
+                amount: 81737 
+              - choice: 15
+                amount: 82999 
+              - choice: 16
+                amount: 84040 
+          - choice: 2014-15
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 50653 
+              - choice: 2
+                amount: 51588 
+              - choice: 3
+                amount: 52728 
+              - choice: 4
+                amount: 53984 
+              - choice: 5
+                amount: 57654 
+              - choice: 6
+                amount: 61832 
+              - choice: 7
+                amount: 65857 
+              - choice: 8
+                amount: 69117 
+              - choice: 9
+                amount: 71896 
+              - choice: 10
+                amount: 73947 
+              - choice: 11
+                amount: 76249 
+              - choice: 12
+                amount: 78169 
+              - choice: 13
+                amount: 79945 
+              - choice: 14a
+                amount: 81887 
+              - choice: 14b
+                amount: 82632 
+              - choice: 14c
+                amount: 83371 
+              - choice: 15a
+                amount: 84633 
+              - choice: 15b
+                amount: 84659 
+              - choice: 16a
+                amount: 85921 
+          - choice: 2015-16
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 50653 
+              - choice: 2
+                amount: 51588 
+              - choice: 3
+                amount: 52709 
+              - choice: 4
+                amount: 53943 
+              - choice: 5
+                amount: 55947 
+              - choice: 6
+                amount: 60084 
+              - choice: 7
+                amount: 64402 
+              - choice: 8
+                amount: 68427 
+              - choice: 9
+                amount: 71687 
+              - choice: 10
+                amount: 74326 
+              - choice: 11
+                amount: 76190 
+              - choice: 12
+                amount: 78118 
+              - choice: 13
+                amount: 79758 
+              - choice: 14a
+                amount: 81300 
+              - choice: 14b
+                amount: 81887 
+              - choice: 14c
+                amount: 82632 
+              - choice: 14d
+                amount: 83371 
+              - choice: 15a
+                amount: 84633 
+              - choice: 15b
+                amount: 84633 
+              - choice: 15c
+                amount: 84659 
+              - choice: 16
+                amount: 85921 
+              - choice: 16b
+                amount: 85921 
+              - choice: 16c
+                amount: 85921 
+      - choice: 2
+        childTitle: Year
+        children:
+        - choice: 2012-13
+          childTitle: Step
+          children:
+            - choice: 1
+              amount: 52058 
+            - choice: 2
+              amount: 52993 
+            - choice: 3
+              amount: 55709 
+            - choice: 4
+              amount: 58542 
+            - choice: 5
+              amount: 61820 
+            - choice: 6
+              amount: 64815 
+            - choice: 7
+              amount: 67486 
+            - choice: 8
+              amount: 69591 
+            - choice: 9
+              amount: 72122 
+            - choice: 10
+              amount: 74510 
+            - choice: 11
+              amount: 76852 
+            - choice: 12
+              amount: 79218 
+            - choice: 13
+              amount: 81468 
+            - choice: 14
+              amount: 83607 
+            - choice: 15
+              amount: 84627 
+            - choice: 16
+              amount: 85657 
+        - choice: 2013-14
+          childTitle: Step
+          children:
+            - choice: 1
+              amount: 53099 
+            - choice: 2
+              amount: 54034 
+            - choice: 3
+              amount: 55174 
+            - choice: 4
+              amount: 58038 
+            - choice: 5
+              amount: 61676 
+            - choice: 6
+              amount: 65486 
+            - choice: 7
+              amount: 68681 
+            - choice: 8
+              amount: 71406 
+            - choice: 9
+              amount: 73553 
+            - choice: 10
+              amount: 75994 
+            - choice: 11
+              amount: 78243 
+            - choice: 12
+              amount: 80258 
+            - choice: 13
+              amount: 82391 
+            - choice: 14a
+              amount: 84452 
+            - choice: 14b
+              amount: 85279 
+            - choice: 15
+              amount: 86541 
+            - choice: 16
+              amount: 87582 
+        - choice: 2014-15
+          childTitle: Step
+          children:
+            - choice: 1
+              amount: 54161 
+            - choice: 2
+              amount: 55096 
+            - choice: 3
+              amount: 56236 
+            - choice: 4
+              amount: 57492 
+            - choice: 5
+              amount: 61162 
+            - choice: 6
+              amount: 65339 
+            - choice: 7
+              amount: 69366 
+            - choice: 8
+              amount: 72625 
+            - choice: 9
+              amount: 75404 
+            - choice: 10
+              amount: 77454 
+            - choice: 11
+              amount: 79757 
+            - choice: 12
+              amount: 81677 
+            - choice: 13
+              amount: 83452 
+            - choice: 14a
+              amount: 85394 
+            - choice: 14b
+              amount: 86141 
+            - choice: 14c
+              amount: 86985 
+            - choice: 15a
+              amount: 88247 
+            - choice: 15b
+              amount: 88272 
+            - choice: 16a
+              amount: 89534 
+            - choice: 16b
+              amount: 89308 
+        - choice: 2015-16
+          childTitle: Step
+          children:
+            - choice: 1
+              amount: 54161 
+            - choice: 2
+              amount: 55096 
+            - choice: 3
+              amount: 56217 
+            - choice: 4
+              amount: 57451 
+            - choice: 5
+              amount: 59455 
+            - choice: 6
+              amount: 63592 
+            - choice: 7
+              amount: 67909 
+            - choice: 8
+              amount: 71936 
+            - choice: 9
+              amount: 75195 
+            - choice: 10
+              amount: 77834 
+            - choice: 11
+              amount: 79697 
+            - choice: 12
+              amount: 81626 
+            - choice: 13
+              amount: 83266 
+            - choice: 14a
+              amount: 84807 
+            - choice: 14b
+              amount: 85394 
+            - choice: 14c
+              amount: 86141 
+            - choice: 14d
+              amount: 86985 
+            - choice: 15a
+              amount: 88247 
+            - choice: 15b
+              amount: 88247 
+            - choice: 15c
+              amount: 88272 
+            - choice: 16
+              amount: 89534 
+            - choice: 16b
+              amount: 89534 
+            - choice: 16c
+              amount: 89534 
+      - choice: 3
+        childTitle: Year
+        children:
+        - choice: 2012-13
+          childTitle: Step
+          children:
+            - choice: 1
+              amount: 53744 
+            - choice: 2
+              amount: 54679 
+            - choice: 3
+              amount: 57395 
+            - choice: 4
+              amount: 60227 
+            - choice: 5
+              amount: 63504 
+            - choice: 6
+              amount: 66502 
+            - choice: 7
+              amount: 69171 
+            - choice: 8
+              amount: 71278 
+            - choice: 9
+              amount: 73808 
+            - choice: 10
+              amount: 76198 
+            - choice: 11
+              amount: 78538 
+            - choice: 12
+              amount: 80905 
+            - choice: 13
+              amount: 83154 
+            - choice: 14
+              amount: 85342 
+            - choice: 15
+              amount: 86364 
+            - choice: 16
+              amount: 87394 
+        - choice: 2013-14
+          childTitle: Step
+          children:
+            - choice: 1
+              amount: 54819 
+            - choice: 2
+              amount: 55754 
+            - choice: 3
+              amount: 56894 
+            - choice: 4
+              amount: 59758 
+            - choice: 5
+              amount: 63395 
+            - choice: 6
+              amount: 67204 
+            - choice: 7
+              amount: 70402 
+            - choice: 8
+              amount: 73124 
+            - choice: 9
+              amount: 75274 
+            - choice: 10
+              amount: 77714 
+            - choice: 11
+              amount: 79965 
+            - choice: 12
+              amount: 81978 
+            - choice: 13
+              amount: 84112 
+            - choice: 14a
+              amount: 86172 
+            - choice: 14b
+              amount: 87049 
+            - choice: 15
+              amount: 88311 
+            - choice: 16
+              amount: 89353 
+        - choice: 2014-15
+          childTitle: Step
+          children:
+            - choice: 1
+              amount: 55915 
+            - choice: 2
+              amount: 56850 
+            - choice: 3
+              amount: 57990 
+            - choice: 4
+              amount: 59246 
+            - choice: 5
+              amount: 62916 
+            - choice: 6
+              amount: 67092 
+            - choice: 7
+              amount: 71118 
+            - choice: 8
+              amount: 74380 
+            - choice: 9
+              amount: 77157 
+            - choice: 10
+              amount: 79209 
+            - choice: 11
+              amount: 81511 
+            - choice: 12
+              amount: 83433 
+            - choice: 13
+              amount: 85206 
+            - choice: 14a
+              amount: 87149 
+            - choice: 14b
+              amount: 87896 
+            - choice: 14c
+              amount: 88790 
+            - choice: 15a
+              amount: 90052 
+            - choice: 15b
+              amount: 90077 
+            - choice: 16a
+              amount: 91339 
+            - choice: 16b
+              amount: 91115 
+        - choice: 2015-16
+          childTitle: Step
+          children:
+            - choice: 1
+              amount: 55915 
+            - choice: 2
+              amount: 56850 
+            - choice: 3
+              amount: 57971 
+            - choice: 4
+              amount: 59205 
+            - choice: 5
+              amount: 61209 
+            - choice: 6
+              amount: 65346 
+            - choice: 7
+              amount: 69662 
+            - choice: 8
+              amount: 73688 
+            - choice: 9
+              amount: 76950 
+            - choice: 10
+              amount: 79587 
+            - choice: 11
+              amount: 81452 
+            - choice: 12
+              amount: 83380 
+            - choice: 13
+              amount: 85022 
+            - choice: 14a
+              amount: 86561 
+            - choice: 14b
+              amount: 87149 
+            - choice: 14c
+              amount: 87896 
+            - choice: 14d
+              amount: 88790 
+            - choice: 15a
+              amount: 90052 
+            - choice: 15b
+              amount: 90052 
+            - choice: 15c
+              amount: 90077 
+            - choice: 16
+              amount: 91339 
+            - choice: 16b
+              amount: 91339 
+            - choice: 16c
+              amount: 91339 
+  - choice: 228-Day Employees
+    childTitle: Lane
+    children:
+      - choice: 1
+        childTitle: Year
+        children:
+          - choice: 2012-13
+            childTitle: Step
+            children: 
+              - choice: 1
+                amount: 53209 
+              - choice: 2
+                amount: 54230 
+              - choice: 3
+                amount: 57199 
+              - choice: 4
+                amount: 60298 
+              - choice: 5
+                amount: 63877 
+              - choice: 6
+                amount: 67153 
+              - choice: 7
+                amount: 70069 
+              - choice: 8
+                amount: 72373 
+              - choice: 9
+                amount: 75140 
+              - choice: 10
+                amount: 77747 
+              - choice: 11
+                amount: 80308 
+              - choice: 12
+                amount: 82895 
+              - choice: 13
+                amount: 85350 
+              - choice: 14
+                amount: 87579 
+              - choice: 15
+                amount: 88588 
+              - choice: 16
+                amount: 89617 
+          - choice: 2013-14
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 54273 
+              - choice: 2
+                amount: 55294 
+              - choice: 3
+                amount: 56541 
+              - choice: 4
+                amount: 59671 
+              - choice: 5
+                amount: 63649 
+              - choice: 6
+                amount: 67811 
+              - choice: 7
+                amount: 71305 
+              - choice: 8
+                amount: 74279 
+              - choice: 9
+                amount: 76629 
+              - choice: 10
+                amount: 79299 
+              - choice: 11
+                amount: 81753 
+              - choice: 12
+                amount: 83957 
+              - choice: 13
+                amount: 86289 
+              - choice: 14a
+                amount: 88538 
+              - choice: 14b
+                amount: 89331 
+              - choice: 15
+                amount: 90708 
+              - choice: 16
+                amount: 91736 
+          - choice: 2014-15
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 55359 
+              - choice: 2
+                amount: 56380 
+              - choice: 3
+                amount: 57626 
+              - choice: 4
+                amount: 58999 
+              - choice: 5
+                amount: 63009 
+              - choice: 6
+                amount: 67578 
+              - choice: 7
+                amount: 71976 
+              - choice: 8
+                amount: 75540 
+              - choice: 9
+                amount: 78574 
+              - choice: 10
+                amount: 80818 
+              - choice: 11
+                amount: 83336 
+              - choice: 12
+                amount: 85431 
+              - choice: 13
+                amount: 87372 
+              - choice: 14a
+                amount: 89496 
+              - choice: 14b
+                amount: 90309 
+              - choice: 14c
+                amount: 91117 
+              - choice: 15a
+                amount: 92494 
+              - choice: 15b
+                amount: 92522 
+              - choice: 16
+                amount: 93898 
+              - choice: 16b
+                amount: 93543 
+          - choice: 2015-16
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 55359 
+              - choice: 2
+                amount: 56380 
+              - choice: 3
+                amount: 57606 
+              - choice: 4
+                amount: 58954 
+              - choice: 5
+                amount: 61144 
+              - choice: 6
+                amount: 65665 
+              - choice: 7
+                amount: 70387 
+              - choice: 8
+                amount: 74785 
+              - choice: 9
+                amount: 78349 
+              - choice: 10
+                amount: 81230 
+              - choice: 11
+                amount: 83269 
+              - choice: 12
+                amount: 85379 
+              - choice: 13
+                amount: 87167 
+              - choice: 14a
+                amount: 88853 
+              - choice: 14b
+                amount: 89496 
+              - choice: 14c
+                amount: 90309 
+              - choice: 14d
+                amount: 91117 
+              - choice: 15a
+                amount: 92494 
+              - choice: 15b
+                amount: 92494 
+              - choice: 15c
+                amount: 92522 
+              - choice: 16
+                amount: 93898 
+              - choice: 16b
+                amount: 93898 
+              - choice: 16c
+                amount: 93898 
+      - choice: 2
+        childTitle: Year
+        children:
+          - choice: 2012-13
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 56893 
+              - choice: 2
+                amount: 57914 
+              - choice: 3
+                amount: 60884 
+              - choice: 4
+                amount: 63983 
+              - choice: 5
+                amount: 67563 
+              - choice: 6
+                amount: 70838 
+              - choice: 7
+                amount: 73755 
+              - choice: 8
+                amount: 76058 
+              - choice: 9
+                amount: 78826 
+              - choice: 10
+                amount: 81432 
+              - choice: 11
+                amount: 83993 
+              - choice: 12
+                amount: 86580 
+              - choice: 13
+                amount: 89036 
+              - choice: 14
+                amount: 91374 
+              - choice: 15
+                amount: 92384 
+              - choice: 16
+                amount: 93413 
+          - choice: 2013-14
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 58031 
+              - choice: 2
+                amount: 59052 
+              - choice: 3
+                amount: 60298 
+              - choice: 4
+                amount: 63430 
+              - choice: 5
+                amount: 67408 
+              - choice: 6
+                amount: 71570 
+              - choice: 7
+                amount: 75064 
+              - choice: 8
+                amount: 78039 
+              - choice: 9
+                amount: 80388 
+              - choice: 10
+                amount: 83059 
+              - choice: 11
+                amount: 85512 
+              - choice: 12
+                amount: 87716 
+              - choice: 13
+                amount: 90048 
+              - choice: 14a
+                amount: 92298 
+              - choice: 14b
+                amount: 93201 
+              - choice: 15
+                amount: 94578 
+              - choice: 16
+                amount: 95608 
+          - choice: 2014-15
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 59191 
+              - choice: 2
+                amount: 60212 
+              - choice: 3
+                amount: 61459 
+              - choice: 4
+                amount: 62832 
+              - choice: 5
+                amount: 66843 
+              - choice: 6
+                amount: 71412 
+              - choice: 7
+                amount: 75811 
+              - choice: 8
+                amount: 79374 
+              - choice: 9
+                amount: 82409 
+              - choice: 10
+                amount: 84652 
+              - choice: 11
+                amount: 87171 
+              - choice: 12
+                amount: 89265 
+              - choice: 13
+                amount: 91206 
+              - choice: 14a
+                amount: 93330 
+              - choice: 14b
+                amount: 94144 
+              - choice: 14c
+                amount: 95066 
+              - choice: 15a
+                amount: 96443 
+              - choice: 15b
+                amount: 96470 
+              - choice: 16
+                amount: 97846 
+              - choice: 16b
+                amount: 97492 
+          - choice: 2015-16
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 59191 
+              - choice: 2
+                amount: 60212 
+              - choice: 3
+                amount: 61438 
+              - choice: 4
+                amount: 62787 
+              - choice: 5
+                amount: 64977 
+              - choice: 6
+                amount: 69499 
+              - choice: 7
+                amount: 74221 
+              - choice: 8
+                amount: 78620 
+              - choice: 9
+                amount: 82183 
+              - choice: 10
+                amount: 85065 
+              - choice: 11
+                amount: 87103 
+              - choice: 12
+                amount: 89214 
+              - choice: 13
+                amount: 91001 
+              - choice: 14a
+                amount: 92687 
+              - choice: 14b
+                amount: 93330 
+              - choice: 14c
+                amount: 94144 
+              - choice: 14d
+                amount: 95066 
+              - choice: 15a
+                amount: 96443 
+              - choice: 15b
+                amount: 96443 
+              - choice: 15c
+                amount: 96470 
+              - choice: 16
+                amount: 97846 
+              - choice: 16b
+                amount: 97846 
+              - choice: 16c
+                amount: 97846 
+      - choice: 3
+        childTitle: Year
+        children:
+          - choice: 2012-13
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 58737 
+              - choice: 2
+                amount: 59758 
+              - choice: 3
+                amount: 62726 
+              - choice: 4
+                amount: 65826 
+              - choice: 5
+                amount: 69406 
+              - choice: 6
+                amount: 72682 
+              - choice: 7
+                amount: 75598 
+              - choice: 8
+                amount: 77900 
+              - choice: 9
+                amount: 80668 
+              - choice: 10
+                amount: 83275 
+              - choice: 11
+                amount: 85836 
+              - choice: 12
+                amount: 88423 
+              - choice: 13
+                amount: 90878 
+              - choice: 14
+                amount: 93270 
+              - choice: 15
+                amount: 94281 
+              - choice: 16
+                amount: 95310 
+          - choice: 2013-14
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 59912 
+              - choice: 2
+                amount: 60933 
+              - choice: 3
+                amount: 62179 
+              - choice: 4
+                amount: 65309 
+              - choice: 5
+                amount: 69288 
+              - choice: 6
+                amount: 73450 
+              - choice: 7
+                amount: 76945 
+              - choice: 8
+                amount: 79919 
+              - choice: 9
+                amount: 82267 
+              - choice: 10
+                amount: 84937 
+              - choice: 11
+                amount: 87392 
+              - choice: 12
+                amount: 89596 
+              - choice: 13
+                amount: 91927 
+              - choice: 14a
+                amount: 94177 
+              - choice: 14b
+                amount: 95135 
+              - choice: 15
+                amount: 96512 
+              - choice: 16
+                amount: 97543 
+          - choice: 2014-15
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 61110 
+              - choice: 2
+                amount: 62131 
+              - choice: 3
+                amount: 63377 
+              - choice: 4
+                amount: 64751 
+              - choice: 5
+                amount: 68760 
+              - choice: 6
+                amount: 73329 
+              - choice: 7
+                amount: 77728 
+              - choice: 8
+                amount: 81293 
+              - choice: 9
+                amount: 84326 
+              - choice: 10
+                amount: 86568 
+              - choice: 11
+                amount: 89087 
+              - choice: 12
+                amount: 91182 
+              - choice: 13
+                amount: 93124 
+              - choice: 14a
+                amount: 95247 
+              - choice: 14b
+                amount: 96060 
+              - choice: 14c
+                amount: 97038 
+              - choice: 15a
+                amount: 98415 
+              - choice: 15b
+                amount: 98443 
+              - choice: 16
+                amount: 99819 
+              - choice: 16b
+                amount: 99466 
+          - choice: 2015-16
+            childTitle: Step
+            children:
+              - choice: 1
+                amount: 61110 
+              - choice: 2
+                amount: 62131 
+              - choice: 3
+                amount: 63357 
+              - choice: 4
+                amount: 64705 
+              - choice: 5
+                amount: 66896 
+              - choice: 6
+                amount: 71416 
+              - choice: 7
+                amount: 76138 
+              - choice: 8
+                amount: 80537 
+              - choice: 9
+                amount: 84102 
+              - choice: 10
+                amount: 86982 
+              - choice: 11
+                amount: 89019 
+              - choice: 12
+                amount: 91130 
+              - choice: 13
+                amount: 92918 
+              - choice: 14a
+                amount: 94605 
+              - choice: 14b
+                amount: 95247 
+              - choice: 14c
+                amount: 96060 
+              - choice: 14d
+                amount: 97038 
+              - choice: 15a
+                amount: 98415 
+              - choice: 15b
+                amount: 98415 
+              - choice: 15c
+                amount: 98443 
+              - choice: 16
+                amount: 99819 
+              - choice: 16b
+                amount: 99819 
+              - choice: 16c
+                amount: 99819 
